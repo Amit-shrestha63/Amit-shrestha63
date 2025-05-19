@@ -12,18 +12,18 @@ I'm a passionate software developer with a strong foundation in full-stack devel
 - 🌐 Building smart solutions in **FinTech** and **AI**
 - 🔍 Exploring **AI + Entrepreneurship**
 - 🚀 Currently seeking **graduate software dev** and **internship** roles  
-- 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/your-profile)  
+- 💬 Let’s connect on [LinkedIn](https://www.linkedin.com/in/amit-shrestha-240300251/)  
 - 🧠 Always learning and sharing via GitHub and personal blog
 
 ---
 
 ### 🚀 Tech Stack
 
-**Languages:** JavaScript, Python, SQL, HTML/CSS  
+**Languages:** JavaScript, Python, HTML/CSS  
 **Front-end:** React.js, Tailwind, Redux  
-**Back-end:** Node.js, Express.js, Django  
-**Databases:** MongoDB, MySQL, PostgreSQL  
-**AI/ML:** Pandas, NumPy, TensorFlow, OpenCV  
+**Back-end:** Node.js, Express.js,   
+**Databases:** MongoDB  
+**AI/ML:** Pandas, NumPy   
 **DevOps:** Docker, AWS, GitHub Actions  
 **Tools:** Git, VS Code, Postman, Figma  
 
@@ -43,8 +43,8 @@ Here are a few highlights:
 
 ### 📫 How to Reach Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
-- ✉️ amitshrestha@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/amit-shrestha-240300251/)
+- ✉️ sthaamit63@gmail.com
 
 ---
 
