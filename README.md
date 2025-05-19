@@ -3,7 +3,7 @@ Final-year BIT student | Aspiring Software Developer | MERN | AI & FinTech Enthu
 
 ---
 
-### 🌸 About Me
+### 🚀 About Me
 
 I'm a passionate software developer with a strong foundation in full-stack development and cloud computing. I love solving real-world problems with scalable, innovative tech solutions.
 
