@@ -19,7 +19,7 @@ I'm a passionate software developer with a strong foundation in full-stack devel
 
 ### 🚀 Tech Stack
 
-**Languages:** JavaScript, Python, HTML/CSS  
+**Languages:** JavaScript, , HTML/CSS  
 **Front-end:** React.js, Tailwind, Redux  
 **Back-end:** Node.js, Express.js,   
 **Databases:** MongoDB  
@@ -33,8 +33,7 @@ I'm a passionate software developer with a strong foundation in full-stack devel
 
 Here are a few highlights:
 
-- 💡 **Smart Home Lighting System** – Arduino + Mobile App control  
-- 🧠 **AI Resume Parser** – NLP-based resume analyzer  
+- 💡 **Chatbot** – using gemini api   
 - 📊 **Task Manager App** – Web app for remote team productivity  
 
 > 🔗 Check out more projects in the Repositories tab!
